@@ -13,3 +13,4 @@ cookieImage.addEventListener("click", function () {
   cookieStuff.innerHTML = `Cookie was clicked ${cookieCounter} times`;
   //* Changes the text after it was clicked and continues to update //
 });
+//change
