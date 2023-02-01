@@ -1,0 +1,21 @@
+body {
+  background-color: pink;
+  display: flex;
+}
+
+.container {
+  background-color: purple;
+  width: 300px;
+  text-align: center;
+  margin: auto;
+  box-shadow: 3pc 3pc 3pc white;
+  border: 1px solid brown;
+}
+
+img {
+  margin-top: 10px;
+}
+
+p {
+  background-color: pink;
+}
