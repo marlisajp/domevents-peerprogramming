@@ -1,0 +1,15 @@
+img {
+  height: 50%;
+  width: 50%;
+  margin-top: 20px;
+  position: relative;
+  object-fit: contain;
+}
+
+.craneContainer {
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
