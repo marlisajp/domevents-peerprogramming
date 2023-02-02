@@ -1,0 +1,36 @@
+html {
+  background-color: antiquewhite;
+}
+
+body {
+  
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  
+  width: 600px;
+  height: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  
+}
+
+#text {
+  font-size: 20px;
+  text-align: center;
+  color: purple;
+  font-family: fantasy;
+}
+
+button {
+    border: 1px solid;
+    margin: 5px;
+    color: purple;
+    background-color: pink;
+
+}
+
+Desktop/Full Stack Academy/VsCode/domevents-peerprogramming
